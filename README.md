@@ -41,24 +41,19 @@ AI-Predictive-Maintenance-IoT/
 
 ---
 
-📊 Visualizations
+## 📊 Visualizations
 
-🔹 Scatter Plot
+### 🔹 Scatter Plot  
+[![Scatter](images/scatter_plot.png)](images/scatter_plot.png)
 
-![Scatter](images/scatter_plot.png)
+### 🔹 Feature Distribution  
+[![Feature Distribution](images/feature_distribution.png)](images/feature_distribution.png)
 
-🔹 Feature Distribution
+### 🔹 Correlation Heatmap  
+[![Correlation](images/correlation.png)](images/correlation.png)
 
-"Distribution" (images/feature_distribution.png)
-
-🔹 Correlation Heatmap
-
-"Correlation" (images/correlation.png)
-
-🔹 Failure Count
-
-"Failure" (images/failure_count.png)
-
+### 🔹 Failure Count  
+[![Failure](images/failure_count.png)](images/failure_count.png)
 ---
 
 ⚙️ Installation
@@ -109,7 +104,7 @@ python main.py
 
 👨‍💻 Author
 
-Your Name
+Archana
 
 ---
 
