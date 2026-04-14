@@ -61,7 +61,6 @@ AI-Predictive-Maintenance-IoT/
 
 ⚙️ Installation
 
-git clone https://github.com/archanas-gif/AI-Predictive-Maintenance-Iot
 cd AI-Predictive-Maintenance-IoT
 pip install -r requirements.txt
 
