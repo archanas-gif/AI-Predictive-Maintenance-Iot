@@ -45,7 +45,7 @@ AI-Predictive-Maintenance-IoT/
 
 🔹 Scatter Plot
 
-"Scatter" (images/scatter_plot.png)
+![Scatter](images/scatter_plot.png)
 
 🔹 Feature Distribution
 
