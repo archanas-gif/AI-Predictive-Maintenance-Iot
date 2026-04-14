@@ -54,11 +54,14 @@ AI-Predictive-Maintenance-IoT/
 
 ### 🔹 Failure Count  
 [![Failure](images/failure_count.png)](images/failure_count.png)
+
+### 🔹 Failure Count  
+[![Failure](images/failure_count.png)](images/failure_count.png)
 ---
 
 ⚙️ Installation
 
-git clone <your-repo-link>
+git clone https://github.com/archanas-gif/AI-Predictive-Maintenance-Iot
 cd AI-Predictive-Maintenance-IoT
 pip install -r requirements.txt
 
