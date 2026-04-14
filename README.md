@@ -55,8 +55,6 @@ AI-Predictive-Maintenance-IoT/
 ### 🔹 Failure Count  
 [![Failure](images/failure_count.png)](images/failure_count.png)
 
-### 🔹 Failure Count  
-[![Failure](images/failure_count.png)](images/failure_count.png)
 ---
 
 ⚙️ Installation
